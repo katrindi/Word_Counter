@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Word_Counter</string>
+    <string name="chars_selection">Chars</string>
+    <string name="words_selection">Words</string>
+    <string-array name="selection_options">
+        <item>Chars</item>
+        <item>Words</item>
+    </string-array>
+</resources>
